@@ -1,0 +1,27 @@
+.detailsbackground{
+    background-image: url("https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1064_crop_center-center_82_line/bar-food.jpg");
+    height: 100vh;
+    width: 100vw;
+    padding-top: 40px;
+    background-size: cover;
+}
+.detailscard{
+    background-color: rgb(118, 244, 130);
+    height: 70vh;
+    width: 30vw;
+    margin-left: 450px;
+    border-radius: 16px;
+}
+.detailstext{
+    font-weight: bold;
+    padding-left: 5px;
+    margin-top: 20px;
+}
+.buttonback{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.buttonsubmit{
+    margin-top: 50px;
+    margin-left: 20px;
+}
